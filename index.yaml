@@ -3,7 +3,7 @@ entries:
   clearml:
   - apiVersion: v2
     appVersion: 1.6.0
-    created: "2022-08-05T16:09:25.0601571+02:00"
+    created: "2022-08-05T16:17:37.6416075+02:00"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -34,6 +34,6 @@ entries:
     - https://github.com/allegroai/clearml
     type: application
     urls:
-    - https://prophesee-ai.github.io/clearml-helm-charts/clearml-4.1.3.tgz
+    - https://zandolsi-psee.github.io/clearml-helm-charts/clearml-4.1.3.tgz
     version: 4.1.3
-generated: "2022-08-05T16:09:25.0338558+02:00"
+generated: "2022-08-05T16:17:37.608788+02:00"
